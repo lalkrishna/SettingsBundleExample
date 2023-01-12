@@ -1,7 +1,7 @@
 # SettingsBundleExample
 Example project that demonstrate settings bundle integration (show version information on app settings).
 
-![screen](https://user-images.githubusercontent.com/2138976/212071153-366faac2-bd25-4824-83e0-56334f3007ec.png)
+<img src="https://user-images.githubusercontent.com/2138976/212071153-366faac2-bd25-4824-83e0-56334f3007ec.png" height="400" />
 
 ## Installation
 - Drag and drop [SettingsBundleHelper](https://github.com/lalkrishna/SettingsBundleExample/tree/main/SettingsBundleExample/SettingsBundleHelper) folder into your project.
