@@ -7,4 +7,4 @@ Example project that demonstrate settings bundle integration (show version infor
 - Just Drag and drop [SettingsBundleHelper](https://github.com/lalkrishna/SettingsBundleExample/tree/main/SettingsBundleExample/SettingsBundleHelper) folder into your project.
 
 - Call
-`SettingsBundleHelper.setVersionAndBuildNumber()` in app delegate.
+`SettingsBundleHelper.setVersionAndBuildNumber()` from app delegate.
