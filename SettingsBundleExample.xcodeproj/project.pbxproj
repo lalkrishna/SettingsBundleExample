@@ -14,6 +14,7 @@
 		9249C67929702D720004FA58 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9249C67829702D720004FA58 /* AppDelegate.swift */; };
 		9249C680297030540004FA58 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 9249C67E297030540004FA58 /* Settings.bundle */; };
 		9249C681297030540004FA58 /* SettingsBundleHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9249C67F297030540004FA58 /* SettingsBundleHelper.swift */; };
+		929D87C62970385600651063 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 929D87C52970385600651063 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		9249C67829702D720004FA58 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9249C67E297030540004FA58 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
 		9249C67F297030540004FA58 /* SettingsBundleHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsBundleHelper.swift; sourceTree = "<group>"; };
+		929D87C52970385600651063 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +43,7 @@
 		9249C65B29702BC40004FA58 = {
 			isa = PBXGroup;
 			children = (
+				929D87C52970385600651063 /* README.md */,
 				9249C67629702D500004FA58 /* Packages */,
 				9249C66629702BC40004FA58 /* SettingsBundleExample */,
 				9249C66529702BC40004FA58 /* Products */,
@@ -162,6 +165,7 @@
 			files = (
 				9249C66F29702BC60004FA58 /* Preview Assets.xcassets in Resources */,
 				9249C680297030540004FA58 /* Settings.bundle in Resources */,
+				929D87C62970385600651063 /* README.md in Resources */,
 				9249C66C29702BC60004FA58 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
